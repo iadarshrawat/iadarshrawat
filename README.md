@@ -1,7 +1,7 @@
-<h1 align="center">🧿Welcome to my profile...this is Adarsh Rawat 👀</h1>
+<h1 align="center"> ✌️Welcome to my profile...I am Adarsh Rawat 🫰</h1>
 <h3 align="center">A passionate fullstack-developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshrawatt&label=Profile%20views&color=0e75b6&style=flat" alt="adarshrawatt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iadarshrawat&label=Profile%20views&color=0e75b6&style=flat" alt="iadarshrawat" /> </p>
 
 - 🔭 I’m currently **growing my knowledge in Data Structures and Alogorithms(DSA)**
 
@@ -22,5 +22,3 @@
 <a href="https://www.leetcode.com/https://leetcode.com/adarsh_rawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adarsh_rawat/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/00adarshrawat00/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/00adarshrawat00/practice" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iadarshrawat&show_icons=true&locale=en&layout=compact" alt="iadarshrawat" /></p>
