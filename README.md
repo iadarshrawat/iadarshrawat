@@ -23,4 +23,4 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/00adarshrawat00/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/00adarshrawat00/practice" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshrawatt&show_icons=true&locale=en&layout=compact" alt="adarshrawatt" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iadarshrawat&show_icons=true&locale=en&layout=compact" alt="iadarshrawat" /></p>
