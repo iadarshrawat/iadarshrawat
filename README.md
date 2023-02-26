@@ -1,3 +1,4 @@
+<h1 align="center"> ✌️ JAI SHREE RAM 🫰</h1>
 <h1 align="center"> ✌️Welcome to my profile...I am Adarsh Rawat 🫰</h1>
 <h2 align="center">A passionate fullstack-developer from India</h2>
 <br>
